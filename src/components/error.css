@@ -1,0 +1,9 @@
+.form-error{
+    color:red
+}
+
+#consentBox{
+    flex-direction: row-reverse;
+    display: flex;
+    border: 2px,solid orange;
+}
